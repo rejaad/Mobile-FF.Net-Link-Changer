@@ -1,4 +1,7 @@
 # Mobile-FF.Net-Link-Changer
+
+For use with <a href="https://www.tampermonkey.net/">Tampermonkey</a>
+
 A small userscript to change m.fanfiction.net links to the non-mobile link without manually changing the URL.
 
 Auto.user.js will automatically change m.fanfiction.net links to the normal desktop version.
