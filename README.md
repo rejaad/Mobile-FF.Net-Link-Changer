@@ -7,4 +7,5 @@ A small userscript to change m.fanfiction.net links to the non-mobile link witho
 Auto.user.js will automatically change m.fanfiction.net links to the normal desktop version.
 
 Button.user.js will add a link to just below the chapter name on the story page and to the bottom of all other m.fanfiction.net pages to take you to the desktop version of the same page.
-<p>Support me on <a href="Ko-fi.com/rejaad" target="_blank" rel="noopener noreferrer">Ko-fi</p>
+
+<p>Support me on <a href="https://www.ko-fi/rejaad" target="_blank" rel="noopener noreferrer">Ko-Fi</a>.</p>
